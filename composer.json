@@ -1,5 +1,5 @@
 {
-	"name": "rfay/composer-ddev-solr",
+	"name": "rfay/composer-ddev-elasticsearch",
 	"type": "ddev-template",
 	"license": "apache2",
 	"autoload": {
